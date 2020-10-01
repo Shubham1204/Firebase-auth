@@ -1,3 +1,4 @@
+// user authentication
 firebase.auth().onAuthStateChanged(function(user) {
     if (user) {
       // if user is signed in
