@@ -2,4 +2,5 @@
 
 login credintials->
 
-admin@gmail.com:admin1234
+admin@gmail.com
+password : admin1234
